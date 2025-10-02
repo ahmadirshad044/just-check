@@ -1,20 +1,20 @@
 [
   {
-    "displayName": "b2-1-pCloud",
+    "displayName": "b2-1-github",
     "endpoint": "s3.us-east-005.backblazeb2.com",
     "accessKeyId": "00563758496ee110000000001",
     "secretAccessKey": "K005TZ588g6cD02OnON6fo3MLDrB7IU",
     "isSecure": true
   },
     {
-    "displayName": "Happy-pCloud",
+    "displayName": "Happy-github",
     "endpoint": "x7r1.or6.idrivee2-69.com",
     "accessKeyId": "i779DcDGbwnlNT1JHacf",
     "secretAccessKey": "Ay2nFAhnjgHXhLPLS45snfwuGHPiSr5os8eR61Ix",
     "isSecure": true
   },
    {
-    "displayName": "d-pCLoud",
+    "displayName": "d-github",
     "endpoint": "x7r1.or6.idrivee2-69.com",
     "accessKeyId": "i779DcDGbwnlNT1JHacf",
     "secretAccessKey": "Ay2nFAhnjgHXhLPLS45snfwuGHPiSr5os8eR61Ix",
